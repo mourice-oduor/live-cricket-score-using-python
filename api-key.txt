@@ -1,0 +1,4 @@
+api-key=>q5eB6MBPQkSKlbrXmzqL40oYUoT2
+unique_id=> 1201947
+
+https://cricapi.com/api/matches/unique_id=1201947&apikey=q5eB6MBPQkSKlbrXmzqL40oYUoT2
